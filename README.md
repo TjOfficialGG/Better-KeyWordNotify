@@ -1,8 +1,8 @@
 # KeywordPing Plugin
 
-**Version**: 1.0.0  
+**Version**: 1.1.0  
 **Author**: Tj  
-**Description**: This plugin pings you when a specific keyword, matching exactly in length and content, is mentioned in chat.  
+**Description**: This plugin pings you when a specific keyword, matching exactly in length and content, is mentioned in chat. Compatible with BetterDiscord and Vencord.
 
 ---
 
@@ -64,4 +64,4 @@ For support or questions, contact **lts_Tj** on Discord.
 
 ---
 
-Happy chatting with **KeywordPing**! 🎉
+Enjoy chatting with **KeywordPing**! 🎉
